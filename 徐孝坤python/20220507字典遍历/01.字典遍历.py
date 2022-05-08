@@ -11,7 +11,7 @@ for key in dic.keys():
 for value in dic.values():
     print(value)
 
-# 4.遍历字典中的每一项
+# 4.遍历字典中的每一项,元组形式输出
 for item in dic.items():
     print(item)
 
