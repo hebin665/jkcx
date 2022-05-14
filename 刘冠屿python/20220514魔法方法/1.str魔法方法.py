@@ -14,5 +14,6 @@ class Hero(object):
 taidamier = Hero("泰达米尔","旋风斩",2600,450,200)
 gailun = Hero("盖伦","大宝剑",4200,260,400)
 
+# 在这里会自动调用__str__方法
 print(taidamier)
 print(gailun)
